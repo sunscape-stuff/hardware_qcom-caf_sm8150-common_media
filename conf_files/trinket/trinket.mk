@@ -1,4 +1,4 @@
-CONFIG_PATH := hardware/qcom/media/conf_files/$(TRINKET)
+CONFIG_PATH := $(TARGET_HALS_PATH)/media/conf_files/$(TRINKET)
 
 # Video feature flags
 
